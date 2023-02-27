@@ -29,12 +29,12 @@
 
 Формы \
 ![Форма программы и содержимое файла после шифрования](https://github.com/VladimirNone/OlympPetersburg/blob/main/SecondTask/Scrinshots/1.png?raw=true) \
-Рисунок 1 – Форма программы и содержимое файла после шифрования
+Рисунок 1 – Форма программы и содержимое файла после шифрования \
 ![Содержимое файла ContainerPrivate.txt](https://github.com/VladimirNone/OlympPetersburg/blob/main/SecondTask/Scrinshots/2.png?raw=true) \
-Рисунок 2 – Содержимое файла ContainerPrivate.txt
+Рисунок 2 – Содержимое файла ContainerPrivate.txt \
 ![Сохранение публичного ключа и содержимое файла ContainerPublic.txt](https://github.com/VladimirNone/OlympPetersburg/blob/main/SecondTask/Scrinshots/3.png?raw=true) \
-Рисунок 3 – Сохранение публичного ключа и содержимое файла ContainerPublic.txt
+Рисунок 3 – Сохранение публичного ключа и содержимое файла ContainerPublic.txt \
 ![Форма программы после перезапуска, загрузки публичного ключа и шифрования файла, содержимое файла после шифрования](https://github.com/VladimirNone/OlympPetersburg/blob/main/SecondTask/Scrinshots/4.png?raw=true) \
-Рисунок 4 – Форма программы после перезапуска, загрузки публичного ключа и шифрования файла, содержимое файла после шифрования
+Рисунок 4 – Форма программы после перезапуска, загрузки публичного ключа и шифрования файла, содержимое файла после шифрования \
 ![Содержимое директорий после работы программы](https://github.com/VladimirNone/OlympPetersburg/blob/main/SecondTask/Scrinshots/5.png?raw=true) \
 Рисунок 5 – Содержимое директорий после работы программы (созданные файлы автоматически шифруются средствами windows, по этой причине видны «ключики» на иконках)
