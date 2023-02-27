@@ -1,0 +1,25 @@
+﻿<Window x:Class="Lab4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab4"
+        mc:Ignorable="d"
+        Title="MainWindow" 
+        Height="285" 
+        Width="447">
+    <Grid>
+        <TextBlock Margin="10,10,327,218" Text="Путь к файлу:"/>
+        <TextBox Margin="108,10,10,218" x:Name="tbFilePath"/>
+        <Button x:Name="bEncrypt" Click="bEncrypt_Click" Content="Шифровать" Margin="10,64,253,161"/>
+        <Button x:Name="bDecrypt" Click="bDecrypt_Click" Content="Расшифровать" Margin="261,64,10,161"/>
+        <Button Click="bSavePublicKey_Click" Content="Сохранить публичный ключ" Margin="10,122,253,103"/>
+        <Button Click="bCreatePrivatecKey_Click" Content="Создать приватный ключ" Margin="261,122,10,103"/>
+        <Button Click="bLoadPublicKey_Click" Content="Загрузить публичный ключ" Margin="10,93,253,132"/>
+        <Button Click="bLoadPrivateKey_Click" Content="Загрузить приватный ключ" Margin="261,93,10,132"/>
+        <TextBlock Margin="10,151,10,78" Text="Уведомления:"/>
+        <TextBox IsReadOnly="True" x:Name="tbNotifications" Margin="10,176,10,10" TextWrapping="Wrap"/>
+        <TextBlock Margin="10,36,321,192" Text="Название ключа:"/>
+        <TextBox Margin="108,36,10,192" x:Name="tbKeyName"/>
+    </Grid>
+</Window>
